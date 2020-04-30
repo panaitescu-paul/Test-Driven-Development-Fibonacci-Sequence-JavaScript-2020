@@ -1,6 +1,6 @@
 # Test Driven Development - Fibonacci Sequence - 2020
 
-A ***TDD (Test Driven Development)*** aproach for writing the Fibonacci Sequence, using JavaScript, Mocha, and Chai. This was done by ***first creating the tests for a feature, then writing the minimum code to pass the tests***. The process was repeated for the remaining features.
+A ***TDD (Test Driven Development)*** approach for writing the Fibonacci Sequence, using JavaScript, Mocha, and Chai. This was done by ***first creating the tests for a feature, then writing the minimum code to pass the tests***. The process was repeated for the remaining features.
 
 ## Content:
 - ***32 Unit Tests***
@@ -15,6 +15,6 @@ A ***TDD (Test Driven Development)*** aproach for writing the Fibonacci Sequence
 <br/>
 
 <p align="center">
-  <img width="60%" height="60%" src="https://github.com/panaitescu-paul/Test Driven Development - Fibonacci Sequence - 2020/blob/master/screenshots/s1.png">
-  <img width="60%" height="60%" src="https://github.com/panaitescu-paul/Test Driven Development - Fibonacci Sequence - 2020/blob/master/screenshots/s2.png">
+  <img width="60%" height="60%" src="https://github.com/panaitescu-paul/Test-Driven-Development-Fibonacci-Sequence-2020/blob/master/screenshots/s1.png">
+  <img width="60%" height="60%" src="https://github.com/panaitescu-paul/Test-Driven-Development-Fibonacci-Sequence-2020/blob/master/screenshots/s2.png">
 </p>
